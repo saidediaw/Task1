@@ -1,0 +1,26 @@
+.contact{
+  width: 150px;
+  text-align: right;
+ padding-right: 20px;
+}
+.input{
+  width: 480px;
+}
+
+.message{
+  width: 480px;
+  height:7rem;
+}
+.send{
+  background-color: skyblue;
+  font-weight: bold;
+  border:none;
+  margin: 0 auto;
+  display: block;
+  padding: 10px;
+  margin-top: 15px;
+}
+
+.send:hover {
+  opacity: 0.6;
+}
