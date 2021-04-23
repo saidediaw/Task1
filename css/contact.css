@@ -1,0 +1,30 @@
+.contact{
+  width: 150px;
+  text-align: right;
+ padding-right: 10px;
+}
+.input{
+  width: 480px;
+}
+
+.message{
+  width: 480px;
+  height:7rem;
+}
+.send{
+  background-color: #008B8B;
+  color: white;
+  font-size: 3rem;
+  font-weight: bold;
+  border:none;
+  margin: auto;
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+
+}
+
+.send:hover {
+  opacity: 0.6;
+}
